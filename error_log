@@ -1,0 +1,1374 @@
+[06-Mar-2024 00:35:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/epumpro/public_html/conti-charger-stations/index.php on line 15
+[06-Mar-2024 00:35:31 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/index.php on line 21
+[06-Mar-2024 00:35:31 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/epumpro/public_html/conti-charger-stations/index.php on line 24
+[06-Mar-2024 00:35:31 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/index.php on line 38
+[06-Mar-2024 06:23:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:23:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:23:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:23:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:23:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:23:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:23:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:23:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:23:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:23:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:23:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:23:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:23:27 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:23:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:23:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:23:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:30:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:30:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:30:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:30:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:30:18 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:30:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:30:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:30:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:30:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:30:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:30:28 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:30:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:30:31 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:30:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:30:34 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:30:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:30:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:30:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:30:40 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:30:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:30:44 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:30:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:30:47 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:30:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:30:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:30:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:30:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:30:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:30:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:30:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:31:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:31:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:31:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:31:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:31:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:31:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:31:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:31:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:31:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:31:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:31:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:31:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:31:18 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:31:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:31:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:31:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:31:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:31:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:31:28 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:31:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:31:31 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:31:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:31:34 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:31:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:31:38 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:31:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:31:41 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:31:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:31:44 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:31:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:31:47 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:31:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:31:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:31:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:31:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:31:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:31:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:31:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:32:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:32:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:32:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:32:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:32:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:32:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:32:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:32:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:32:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:32:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:32:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:32:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:32:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:32:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:32:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:32:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:32:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:32:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:32:29 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:32:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:32:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:32:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:32:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:32:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:32:38 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:32:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:32:41 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:32:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:32:44 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:32:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:32:47 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:32:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:32:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:32:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:32:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:32:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:32:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:32:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:33:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:33:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:33:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:33:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:33:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:33:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:33:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:33:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:33:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:33:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:33:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:33:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:33:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:33:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:33:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:33:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:33:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:33:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:33:29 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:33:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:33:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:33:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:33:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:33:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:33:38 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:33:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:33:41 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:33:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:33:44 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:33:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:33:47 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:33:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:33:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:33:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:33:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:33:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:33:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:33:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:34:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:34:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:34:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:34:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:34:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:34:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:34:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:34:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:34:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:34:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:34:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:34:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:34:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:34:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:34:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:34:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:34:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:34:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:34:29 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:34:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:34:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:34:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:34:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:34:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:34:38 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:34:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:34:41 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:34:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:34:45 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:34:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:34:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:34:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:34:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:34:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:34:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:34:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:34:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:34:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:35:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:35:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:35:04 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:35:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:35:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:35:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:35:10 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:35:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:35:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:35:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:35:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:35:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:35:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:35:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:35:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:35:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:35:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:35:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:35:29 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:35:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:35:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:35:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:35:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:35:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:35:39 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 3
+[06-Mar-2024 06:35:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/check_messages.php:1) in /home/epumpro/public_html/conti-charger-stations/check_messages.php on line 7
+[06-Mar-2024 06:41:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/epumpro/public_html/conti-charger-stations/index.php on line 15
+[06-Mar-2024 06:41:14 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/index.php on line 21
+[06-Mar-2024 06:41:14 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/epumpro/public_html/conti-charger-stations/index.php on line 24
+[06-Mar-2024 06:41:14 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/index.php on line 38
+[06-Mar-2024 19:37:22 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:129
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 129
+[06-Mar-2024 19:37:27 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:129
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 129
+[06-Mar-2024 19:37:37 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:129
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 129
+[06-Mar-2024 19:43:24 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/station_details.php:24) in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 25
+[06-Mar-2024 19:43:30 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/station_details.php:24) in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 25
+[06-Mar-2024 19:43:33 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/station_details.php:24) in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 25
+[06-Mar-2024 19:43:36 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/station_details.php:24) in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 25
+[06-Mar-2024 19:43:46 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/station_details.php:24) in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 25
+[06-Mar-2024 19:43:49 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/station_details.php:24) in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 25
+[06-Mar-2024 19:43:51 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/station_details.php:24) in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 25
+[06-Mar-2024 19:45:26 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/station_details.php:24) in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 25
+[06-Mar-2024 19:47:02 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/station_details.php:24) in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 25
+[06-Mar-2024 19:47:33 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/station_details.php:24) in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 25
+[06-Mar-2024 19:48:09 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/station_details.php:24) in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 25
+[06-Mar-2024 19:51:41 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/station_details.php:24) in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 25
+[06-Mar-2024 19:51:46 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/station_details.php:24) in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 25
+[06-Mar-2024 19:51:51 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/station_details.php:24) in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 25
+[06-Mar-2024 19:51:59 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/station_details.php:24) in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 25
+[06-Mar-2024 19:53:26 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/station_details.php:24) in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 25
+[06-Mar-2024 19:54:37 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/station_details.php:24) in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 26
+[06-Mar-2024 19:54:37 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 36
+[06-Mar-2024 19:54:37 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[06-Mar-2024 19:59:42 Europe/Bucharest] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/epumpro/public_html/conti-charger-stations/index.php on line 15
+[06-Mar-2024 19:59:42 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/index.php on line 21
+[06-Mar-2024 19:59:42 Europe/Bucharest] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/epumpro/public_html/conti-charger-stations/index.php on line 24
+[06-Mar-2024 19:59:42 Europe/Bucharest] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/index.php on line 38
+[06-Mar-2024 20:03:43 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 36
+[06-Mar-2024 20:03:43 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[06-Mar-2024 20:03:44 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 36
+[06-Mar-2024 20:03:44 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[06-Mar-2024 20:03:46 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 36
+[06-Mar-2024 20:03:46 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[06-Mar-2024 20:03:49 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 36
+[06-Mar-2024 20:03:49 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[06-Mar-2024 20:04:04 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 36
+[06-Mar-2024 20:04:04 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[06-Mar-2024 20:04:05 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 36
+[06-Mar-2024 20:04:05 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[06-Mar-2024 20:04:05 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 36
+[06-Mar-2024 20:04:05 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[06-Mar-2024 20:05:15 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 83
+[06-Mar-2024 20:05:15 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 84
+[06-Mar-2024 20:05:15 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 88
+[06-Mar-2024 20:05:15 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 89
+[06-Mar-2024 20:05:15 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:90
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 90
+[06-Mar-2024 20:05:19 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 36
+[06-Mar-2024 20:05:19 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[06-Mar-2024 20:05:26 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 36
+[06-Mar-2024 20:05:26 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[06-Mar-2024 20:05:26 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 36
+[06-Mar-2024 20:05:26 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[06-Mar-2024 20:05:27 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 36
+[06-Mar-2024 20:05:27 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[06-Mar-2024 20:06:06 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 36
+[06-Mar-2024 20:06:06 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[06-Mar-2024 20:06:07 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 86
+[06-Mar-2024 20:06:07 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 87
+[06-Mar-2024 20:06:07 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 91
+[06-Mar-2024 20:06:07 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 92
+[06-Mar-2024 20:06:07 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:93
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 93
+[06-Mar-2024 20:06:21 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 36
+[06-Mar-2024 20:06:21 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[06-Mar-2024 20:06:23 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 86
+[06-Mar-2024 20:06:23 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 87
+[06-Mar-2024 20:06:23 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 91
+[06-Mar-2024 20:06:23 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 92
+[06-Mar-2024 20:06:23 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:93
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 93
+[06-Mar-2024 20:06:30 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 86
+[06-Mar-2024 20:06:30 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 87
+[06-Mar-2024 20:06:30 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 91
+[06-Mar-2024 20:06:30 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 92
+[06-Mar-2024 20:06:30 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:93
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 93
+[06-Mar-2024 20:06:32 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 36
+[06-Mar-2024 20:06:32 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[06-Mar-2024 20:06:32 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 36
+[06-Mar-2024 20:06:32 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[06-Mar-2024 20:06:33 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 36
+[06-Mar-2024 20:06:33 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[06-Mar-2024 20:06:34 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 36
+[06-Mar-2024 20:06:34 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[06-Mar-2024 20:06:34 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 36
+[06-Mar-2024 20:06:34 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[06-Mar-2024 20:06:35 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 36
+[06-Mar-2024 20:06:35 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[06-Mar-2024 20:10:40 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 86
+[06-Mar-2024 20:10:40 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 87
+[06-Mar-2024 20:10:40 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 91
+[06-Mar-2024 20:10:40 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 92
+[06-Mar-2024 20:10:40 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:93
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 93
+[06-Mar-2024 20:11:37 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[06-Mar-2024 20:11:37 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[06-Mar-2024 20:11:40 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[06-Mar-2024 20:11:40 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[06-Mar-2024 20:11:42 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[06-Mar-2024 20:11:42 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[06-Mar-2024 20:13:29 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[06-Mar-2024 20:13:29 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[06-Mar-2024 20:13:31 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[06-Mar-2024 20:13:31 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[06-Mar-2024 20:14:19 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[06-Mar-2024 20:14:19 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[06-Mar-2024 20:14:23 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[06-Mar-2024 20:14:23 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[06-Mar-2024 20:14:25 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[06-Mar-2024 20:14:25 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[06-Mar-2024 20:14:27 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[06-Mar-2024 20:14:27 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[06-Mar-2024 20:14:27 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[06-Mar-2024 20:14:27 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[06-Mar-2024 20:14:29 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[06-Mar-2024 20:14:29 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[06-Mar-2024 20:26:56 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[06-Mar-2024 20:26:56 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[06-Mar-2024 20:26:57 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[06-Mar-2024 20:26:57 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[06-Mar-2024 20:26:58 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[06-Mar-2024 20:26:58 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[06-Mar-2024 20:26:59 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[06-Mar-2024 20:26:59 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[06-Mar-2024 20:26:59 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[06-Mar-2024 20:26:59 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[06-Mar-2024 20:27:13 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[06-Mar-2024 20:27:13 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[06-Mar-2024 20:27:28 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[06-Mar-2024 20:27:28 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[06-Mar-2024 20:27:30 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[06-Mar-2024 20:27:30 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[06-Mar-2024 20:27:32 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[06-Mar-2024 20:27:32 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[07-Mar-2024 02:53:18 Europe/Bucharest] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/epumpro/public_html/conti-charger-stations/index.php on line 15
+[07-Mar-2024 02:53:18 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/index.php on line 21
+[07-Mar-2024 02:53:18 Europe/Bucharest] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/epumpro/public_html/conti-charger-stations/index.php on line 24
+[07-Mar-2024 02:53:18 Europe/Bucharest] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/index.php on line 38
+[07-Mar-2024 12:12:36 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[07-Mar-2024 12:12:36 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[07-Mar-2024 20:48:40 Europe/Bucharest] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 9
+[07-Mar-2024 20:48:40 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/station_details.php:6) in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 13
+[07-Mar-2024 20:52:03 Europe/Bucharest] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 9
+[07-Mar-2024 20:52:03 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/station_details.php:6) in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 13
+[07-Mar-2024 21:44:29 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/login.php:20) in /home/epumpro/public_html/conti-charger-stations/login.php on line 42
+[07-Mar-2024 21:45:44 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/login.php:20) in /home/epumpro/public_html/conti-charger-stations/login.php on line 42
+[07-Mar-2024 21:47:27 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/epumpro/public_html/conti-charger-stations/login.php:20) in /home/epumpro/public_html/conti-charger-stations/login.php on line 41
+[07-Mar-2024 22:35:49 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/epumpro/public_html/conti-charger-stations/register.php on line 60
+[07-Mar-2024 22:35:58 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/epumpro/public_html/conti-charger-stations/register.php on line 60
+[07-Mar-2024 22:38:29 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE) in /home/epumpro/public_html/conti-charger-stations/register.php on line 13
+[07-Mar-2024 22:38:40 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE) in /home/epumpro/public_html/conti-charger-stations/register.php on line 13
+[07-Mar-2024 22:38:49 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE) in /home/epumpro/public_html/conti-charger-stations/register.php on line 13
+[07-Mar-2024 22:44:42 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$result_invitation' (T_VARIABLE) in /home/epumpro/public_html/conti-charger-stations/register.php on line 22
+[08-Mar-2024 03:02:13 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[08-Mar-2024 03:02:13 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[08-Mar-2024 03:02:21 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[08-Mar-2024 03:02:21 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[08-Mar-2024 11:45:37 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[08-Mar-2024 11:45:37 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[09-Mar-2024 15:16:19 Europe/Bucharest] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/epumpro/public_html/conti-charger-stations/index.php on line 15
+[09-Mar-2024 15:16:19 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/index.php on line 21
+[09-Mar-2024 15:16:19 Europe/Bucharest] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/epumpro/public_html/conti-charger-stations/index.php on line 24
+[09-Mar-2024 15:16:19 Europe/Bucharest] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/index.php on line 38
+[09-Mar-2024 19:29:18 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[09-Mar-2024 19:29:18 Europe/Bucharest] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 44
+[09-Mar-2024 19:29:18 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[09-Mar-2024 19:29:18 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[10-Mar-2024 21:02:43 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[10-Mar-2024 21:02:43 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[10-Mar-2024 21:02:43 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[10-Mar-2024 21:02:43 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[10-Mar-2024 21:02:44 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[10-Mar-2024 21:02:44 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[10-Mar-2024 21:02:44 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[10-Mar-2024 21:02:44 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[10-Mar-2024 21:02:44 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[10-Mar-2024 21:02:44 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[10-Mar-2024 21:02:44 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[10-Mar-2024 21:02:44 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[10-Mar-2024 21:02:45 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 51
+[10-Mar-2024 21:02:45 Europe/Bucharest] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 58
+[10-Mar-2024 21:02:45 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[10-Mar-2024 21:02:45 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[10-Mar-2024 21:02:45 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 51
+[10-Mar-2024 21:02:45 Europe/Bucharest] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 58
+[10-Mar-2024 21:02:45 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[10-Mar-2024 21:02:45 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[10-Mar-2024 21:02:45 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 51
+[10-Mar-2024 21:02:45 Europe/Bucharest] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 58
+[10-Mar-2024 21:02:45 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[10-Mar-2024 21:02:45 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[10-Mar-2024 21:02:46 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[10-Mar-2024 21:02:46 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[10-Mar-2024 21:02:47 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 51
+[10-Mar-2024 21:02:47 Europe/Bucharest] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 58
+[10-Mar-2024 21:02:47 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[10-Mar-2024 21:02:47 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[10-Mar-2024 21:02:47 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[10-Mar-2024 21:02:47 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[10-Mar-2024 21:02:48 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 51
+[10-Mar-2024 21:02:48 Europe/Bucharest] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 58
+[10-Mar-2024 21:02:48 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[10-Mar-2024 21:02:48 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[10-Mar-2024 21:02:48 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[10-Mar-2024 21:02:48 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[10-Mar-2024 21:02:50 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 51
+[10-Mar-2024 21:02:50 Europe/Bucharest] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 58
+[10-Mar-2024 21:02:50 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[10-Mar-2024 21:02:50 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[10-Mar-2024 21:03:00 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[10-Mar-2024 21:03:00 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[11-Mar-2024 10:59:28 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[11-Mar-2024 10:59:28 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[11-Mar-2024 10:59:38 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[11-Mar-2024 10:59:38 Europe/Bucharest] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 44
+[11-Mar-2024 10:59:38 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[11-Mar-2024 10:59:38 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[11-Mar-2024 10:59:50 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[11-Mar-2024 10:59:50 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[11-Mar-2024 10:59:53 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[11-Mar-2024 10:59:53 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[11-Mar-2024 11:00:00 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[11-Mar-2024 11:00:00 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[11-Mar-2024 11:00:03 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[11-Mar-2024 11:00:03 Europe/Bucharest] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 44
+[11-Mar-2024 11:00:03 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[11-Mar-2024 11:00:03 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[11-Mar-2024 11:00:06 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 51
+[11-Mar-2024 11:00:06 Europe/Bucharest] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 58
+[11-Mar-2024 11:00:06 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[11-Mar-2024 11:00:06 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[11-Mar-2024 11:00:09 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[11-Mar-2024 11:00:09 Europe/Bucharest] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 44
+[11-Mar-2024 11:00:09 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[11-Mar-2024 11:00:09 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[11-Mar-2024 11:00:26 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[11-Mar-2024 11:00:26 Europe/Bucharest] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 44
+[11-Mar-2024 11:00:26 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[11-Mar-2024 11:00:26 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[11-Mar-2024 11:00:31 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[11-Mar-2024 11:00:31 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[11-Mar-2024 11:00:34 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[11-Mar-2024 11:00:34 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[11-Mar-2024 11:00:42 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[11-Mar-2024 11:00:42 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[11-Mar-2024 11:00:48 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[11-Mar-2024 11:00:48 Europe/Bucharest] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 44
+[11-Mar-2024 11:00:48 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[11-Mar-2024 11:00:48 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[11-Mar-2024 11:00:52 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[11-Mar-2024 11:00:52 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[11-Mar-2024 11:01:06 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[11-Mar-2024 11:01:06 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[11-Mar-2024 11:01:23 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[11-Mar-2024 11:01:23 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[11-Mar-2024 11:01:26 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[11-Mar-2024 11:01:26 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[11-Mar-2024 11:01:37 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 51
+[11-Mar-2024 11:01:37 Europe/Bucharest] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 58
+[11-Mar-2024 11:01:37 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[11-Mar-2024 11:01:37 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[11-Mar-2024 11:02:15 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[11-Mar-2024 11:02:15 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[11-Mar-2024 11:02:19 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[11-Mar-2024 11:02:19 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[11-Mar-2024 11:02:22 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[11-Mar-2024 11:02:22 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[11-Mar-2024 11:02:28 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[11-Mar-2024 11:02:28 Europe/Bucharest] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 44
+[11-Mar-2024 11:02:28 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[11-Mar-2024 11:02:28 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[11-Mar-2024 11:02:28 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 51
+[11-Mar-2024 11:02:28 Europe/Bucharest] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 58
+[11-Mar-2024 11:02:28 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[11-Mar-2024 11:02:28 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[11-Mar-2024 11:02:54 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[11-Mar-2024 11:02:54 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[11-Mar-2024 11:03:04 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[11-Mar-2024 11:03:04 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[11-Mar-2024 11:03:07 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[11-Mar-2024 11:03:07 Europe/Bucharest] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 44
+[11-Mar-2024 11:03:07 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[11-Mar-2024 11:03:07 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[11-Mar-2024 11:03:34 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[11-Mar-2024 11:03:34 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[11-Mar-2024 11:03:37 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[11-Mar-2024 11:03:37 Europe/Bucharest] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 44
+[11-Mar-2024 11:03:37 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[11-Mar-2024 11:03:37 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[11-Mar-2024 11:03:42 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 51
+[11-Mar-2024 11:03:42 Europe/Bucharest] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 58
+[11-Mar-2024 11:03:42 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[11-Mar-2024 11:03:42 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[11-Mar-2024 11:04:08 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[11-Mar-2024 11:04:08 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[11-Mar-2024 11:20:14 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[11-Mar-2024 11:20:14 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[11-Mar-2024 11:20:18 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[11-Mar-2024 11:20:18 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[11-Mar-2024 11:20:19 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[11-Mar-2024 11:20:19 Europe/Bucharest] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 44
+[11-Mar-2024 11:20:19 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[11-Mar-2024 11:20:19 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[11-Mar-2024 11:20:27 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[11-Mar-2024 11:20:27 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[11-Mar-2024 11:20:29 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[11-Mar-2024 11:20:29 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[11-Mar-2024 13:37:39 Europe/Bucharest] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/epumpro/public_html/conti-charger-stations/index.php on line 15
+[11-Mar-2024 13:37:39 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/index.php on line 21
+[11-Mar-2024 13:37:39 Europe/Bucharest] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/epumpro/public_html/conti-charger-stations/index.php on line 24
+[11-Mar-2024 13:37:39 Europe/Bucharest] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/index.php on line 38
+[11-Mar-2024 13:40:32 Europe/Bucharest] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/epumpro/public_html/conti-charger-stations/index.php on line 15
+[11-Mar-2024 13:40:32 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/index.php on line 21
+[11-Mar-2024 13:40:32 Europe/Bucharest] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/epumpro/public_html/conti-charger-stations/index.php on line 24
+[11-Mar-2024 13:40:32 Europe/Bucharest] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/index.php on line 38
+[11-Mar-2024 13:49:46 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 51
+[11-Mar-2024 13:49:46 Europe/Bucharest] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 58
+[11-Mar-2024 13:49:46 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[11-Mar-2024 13:49:46 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[11-Mar-2024 13:50:09 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[11-Mar-2024 13:50:09 Europe/Bucharest] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 44
+[11-Mar-2024 13:50:09 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[11-Mar-2024 13:50:09 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[12-Mar-2024 08:55:01 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[12-Mar-2024 08:55:01 Europe/Bucharest] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 44
+[12-Mar-2024 08:55:01 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[12-Mar-2024 08:55:01 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[12-Mar-2024 08:55:05 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[12-Mar-2024 08:55:05 Europe/Bucharest] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 44
+[12-Mar-2024 08:55:05 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[12-Mar-2024 08:55:05 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[12-Mar-2024 08:55:19 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[12-Mar-2024 08:55:19 Europe/Bucharest] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 44
+[12-Mar-2024 08:55:19 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[12-Mar-2024 08:55:19 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[12-Mar-2024 08:55:21 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 51
+[12-Mar-2024 08:55:21 Europe/Bucharest] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 58
+[12-Mar-2024 08:55:21 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[12-Mar-2024 08:55:21 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[12-Mar-2024 08:56:17 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[12-Mar-2024 08:56:17 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[12-Mar-2024 08:57:08 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[12-Mar-2024 08:57:08 Europe/Bucharest] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 44
+[12-Mar-2024 08:57:08 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[12-Mar-2024 08:57:08 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[12-Mar-2024 08:57:10 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[12-Mar-2024 08:57:10 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[12-Mar-2024 08:57:28 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 51
+[12-Mar-2024 08:57:28 Europe/Bucharest] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 58
+[12-Mar-2024 08:57:28 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[12-Mar-2024 08:57:28 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[12-Mar-2024 08:57:30 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 51
+[12-Mar-2024 08:57:30 Europe/Bucharest] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 58
+[12-Mar-2024 08:57:30 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[12-Mar-2024 08:57:30 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[12-Mar-2024 10:13:14 Europe/Bucharest] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/epumpro/public_html/conti-charger-stations/index.php on line 15
+[12-Mar-2024 10:13:14 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/index.php on line 21
+[12-Mar-2024 10:13:14 Europe/Bucharest] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/epumpro/public_html/conti-charger-stations/index.php on line 24
+[12-Mar-2024 10:13:14 Europe/Bucharest] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/index.php on line 38
+[12-Mar-2024 11:21:59 Europe/Bucharest] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/epumpro/public_html/conti-charger-stations/index.php on line 15
+[12-Mar-2024 11:21:59 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/index.php on line 21
+[12-Mar-2024 11:21:59 Europe/Bucharest] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/epumpro/public_html/conti-charger-stations/index.php on line 24
+[12-Mar-2024 11:21:59 Europe/Bucharest] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/index.php on line 38
+[12-Mar-2024 11:28:55 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 51
+[12-Mar-2024 11:28:55 Europe/Bucharest] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 58
+[12-Mar-2024 11:28:55 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[12-Mar-2024 11:28:55 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[12-Mar-2024 13:48:59 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[12-Mar-2024 13:48:59 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[12-Mar-2024 14:29:03 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 51
+[12-Mar-2024 14:29:03 Europe/Bucharest] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 58
+[12-Mar-2024 14:29:03 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[12-Mar-2024 14:29:03 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[12-Mar-2024 14:29:53 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 51
+[12-Mar-2024 14:29:53 Europe/Bucharest] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 58
+[12-Mar-2024 14:29:53 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[12-Mar-2024 14:29:53 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[12-Mar-2024 14:29:53 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 51
+[12-Mar-2024 14:29:53 Europe/Bucharest] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 58
+[12-Mar-2024 14:29:53 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[12-Mar-2024 14:29:53 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[12-Mar-2024 14:30:01 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 51
+[12-Mar-2024 14:30:01 Europe/Bucharest] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 58
+[12-Mar-2024 14:30:01 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[12-Mar-2024 14:30:01 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[13-Mar-2024 15:55:20 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[13-Mar-2024 15:55:20 Europe/Bucharest] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 44
+[13-Mar-2024 15:55:20 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[13-Mar-2024 15:55:20 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[14-Mar-2024 12:10:47 Europe/Bucharest] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/epumpro/public_html/conti-charger-stations/index.php on line 15
+[14-Mar-2024 12:10:47 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/index.php on line 21
+[14-Mar-2024 12:10:47 Europe/Bucharest] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/epumpro/public_html/conti-charger-stations/index.php on line 24
+[14-Mar-2024 12:10:47 Europe/Bucharest] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/index.php on line 38
+[15-Mar-2024 10:36:18 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[15-Mar-2024 10:36:18 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[15-Mar-2024 10:36:20 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[15-Mar-2024 10:36:20 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[15-Mar-2024 11:23:26 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 51
+[15-Mar-2024 11:23:26 Europe/Bucharest] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 58
+[15-Mar-2024 11:23:26 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[15-Mar-2024 11:23:26 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[15-Mar-2024 11:23:29 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[15-Mar-2024 11:23:29 Europe/Bucharest] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 44
+[15-Mar-2024 11:23:29 Europe/Bucharest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[15-Mar-2024 11:23:29 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[17-Mar-2024 22:25:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 25
+[17-Mar-2024 22:28:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[17-Mar-2024 22:31:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[17-Mar-2024 22:34:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[17-Mar-2024 22:35:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[17-Mar-2024 23:57:47 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[17-Mar-2024 23:57:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[17-Mar-2024 23:57:49 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[17-Mar-2024 23:57:49 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 44
+[17-Mar-2024 23:57:49 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[17-Mar-2024 23:57:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[17-Mar-2024 23:58:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[17-Mar-2024 23:58:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[17-Mar-2024 23:59:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[17-Mar-2024 23:59:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[17-Mar-2024 23:59:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[17-Mar-2024 23:59:03 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[17-Mar-2024 23:59:03 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[17-Mar-2024 23:59:03 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[17-Mar-2024 23:59:03 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[17-Mar-2024 23:59:04 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[17-Mar-2024 23:59:04 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[17-Mar-2024 23:59:04 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 00:02:03 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 51
+[18-Mar-2024 00:02:03 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 58
+[18-Mar-2024 00:02:03 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[18-Mar-2024 00:02:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[18-Mar-2024 00:02:22 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[18-Mar-2024 00:02:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[18-Mar-2024 00:02:43 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[18-Mar-2024 00:02:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[18-Mar-2024 00:02:48 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[18-Mar-2024 00:02:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[18-Mar-2024 00:03:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[18-Mar-2024 00:03:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[18-Mar-2024 00:03:41 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 51
+[18-Mar-2024 00:03:41 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 58
+[18-Mar-2024 00:03:41 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[18-Mar-2024 00:03:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[18-Mar-2024 00:04:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 00:04:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 00:04:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 00:04:03 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[18-Mar-2024 00:04:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[18-Mar-2024 00:05:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 00:05:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 00:05:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 00:05:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 00:05:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 00:05:03 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 00:05:03 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 00:06:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 00:06:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 00:06:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 00:06:03 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 00:06:03 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 00:06:03 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 00:06:03 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 00:07:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 00:07:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 00:07:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 00:07:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 00:07:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 00:15:52 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 51
+[18-Mar-2024 00:15:52 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 58
+[18-Mar-2024 00:15:52 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[18-Mar-2024 00:15:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[18-Mar-2024 00:17:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 00:17:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 00:17:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 00:17:03 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 00:18:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 00:18:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 00:18:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 00:18:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 00:18:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 00:19:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 00:19:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 00:19:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 00:19:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 00:19:03 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 00:20:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 07:50:34 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[18-Mar-2024 07:50:34 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 44
+[18-Mar-2024 07:50:34 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[18-Mar-2024 07:50:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[18-Mar-2024 08:02:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:04:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:06:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:07:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:10:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:15:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:15:33 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:28:55 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:45:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:45:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:45:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:45:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:45:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:46:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:46:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:46:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:46:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:46:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:46:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:46:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:46:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:46:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:46:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:46:18 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[18-Mar-2024 08:46:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[18-Mar-2024 08:46:30 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[18-Mar-2024 08:46:30 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 44
+[18-Mar-2024 08:46:30 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[18-Mar-2024 08:46:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[18-Mar-2024 08:47:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:47:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:47:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:48:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:48:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:48:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:48:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:48:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:48:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:48:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:48:50 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:48:50 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:49:16 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:50:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:50:42 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:50:49 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:52:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:52:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:52:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:52:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:53:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:53:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:53:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:54:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:54:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:55:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:55:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:55:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:55:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:55:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:55:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:55:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:55:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:55:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:55:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:55:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:56:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:56:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:56:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:56:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:56:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:56:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:56:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:57:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:57:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:57:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:57:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:57:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:57:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:57:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:57:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:58:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:58:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:58:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 08:58:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 09:10:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 09:10:46 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 09:14:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 09:16:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[18-Mar-2024 09:43:03 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[18-Mar-2024 09:43:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[18-Mar-2024 09:43:11 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 51
+[18-Mar-2024 09:43:11 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 58
+[18-Mar-2024 09:43:11 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[18-Mar-2024 09:43:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[18-Mar-2024 09:53:51 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 51
+[18-Mar-2024 09:53:51 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 58
+[18-Mar-2024 09:53:51 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[18-Mar-2024 09:53:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[18-Mar-2024 09:53:57 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 51
+[18-Mar-2024 09:53:57 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 58
+[18-Mar-2024 09:53:57 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[18-Mar-2024 09:53:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[18-Mar-2024 14:16:39 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[18-Mar-2024 14:16:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[18-Mar-2024 14:16:41 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[18-Mar-2024 14:16:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[18-Mar-2024 14:16:43 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[18-Mar-2024 14:16:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[18-Mar-2024 14:16:49 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[18-Mar-2024 14:16:49 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 44
+[18-Mar-2024 14:16:49 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[18-Mar-2024 14:16:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[18-Mar-2024 14:16:55 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[18-Mar-2024 14:16:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[18-Mar-2024 14:17:00 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[18-Mar-2024 14:17:00 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 44
+[18-Mar-2024 14:17:00 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[18-Mar-2024 14:17:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[18-Mar-2024 14:17:36 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 51
+[18-Mar-2024 14:17:36 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 58
+[18-Mar-2024 14:17:36 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[18-Mar-2024 14:17:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[18-Mar-2024 14:18:02 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[18-Mar-2024 14:18:02 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 44
+[18-Mar-2024 14:18:02 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[18-Mar-2024 14:18:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[18-Mar-2024 14:18:16 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 51
+[18-Mar-2024 14:18:16 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 58
+[18-Mar-2024 14:18:16 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[18-Mar-2024 14:18:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[18-Mar-2024 14:19:13 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[18-Mar-2024 14:19:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[18-Mar-2024 14:19:59 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[18-Mar-2024 14:19:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[18-Mar-2024 14:20:03 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[18-Mar-2024 14:20:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[18-Mar-2024 14:20:08 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[18-Mar-2024 14:20:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[18-Mar-2024 14:20:26 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 51
+[18-Mar-2024 14:20:26 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 58
+[18-Mar-2024 14:20:26 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[18-Mar-2024 14:20:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[18-Mar-2024 14:20:30 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 37
+[18-Mar-2024 14:20:30 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 44
+[18-Mar-2024 14:20:30 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[18-Mar-2024 14:20:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[18-Mar-2024 19:08:03 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 51
+[18-Mar-2024 19:08:03 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 58
+[18-Mar-2024 19:08:03 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[18-Mar-2024 19:08:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[20-Mar-2024 06:36:55 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 51
+[20-Mar-2024 06:36:55 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 58
+[20-Mar-2024 06:36:55 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[20-Mar-2024 06:36:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[22-Mar-2024 11:34:02 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[22-Mar-2024 11:56:43 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[22-Mar-2024 11:56:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[22-Mar-2024 11:56:50 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 66
+[22-Mar-2024 11:56:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/epumpro/public_html/conti-charger-stations/station_details.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/station_details.php on line 67
+[22-Mar-2024 14:03:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[22-Mar-2024 14:06:01 UTC] PHP Warning:  Use of undefined constant peer_id - assumed 'peer_id' (this will throw an Error in a future version of PHP) in /home/epumpro/public_html/conti-charger-stations/notification.php on line 24
+[22-Mar-2024 14:26:36 UTC] PHP Parse error:  syntax error, unexpected '$sql_charging_time' (T_VARIABLE), expecting ';' or ',' in /home/epumpro/public_html/conti-charger-stations/checkin_status.php on line 9
+[22-Mar-2024 14:26:38 UTC] PHP Parse error:  syntax error, unexpected '$sql_charging_time' (T_VARIABLE), expecting ';' or ',' in /home/epumpro/public_html/conti-charger-stations/checkin_status.php on line 9
+[22-Mar-2024 14:26:38 UTC] PHP Parse error:  syntax error, unexpected '$sql_charging_time' (T_VARIABLE), expecting ';' or ',' in /home/epumpro/public_html/conti-charger-stations/checkin_status.php on line 9
+[22-Mar-2024 14:26:38 UTC] PHP Parse error:  syntax error, unexpected '$sql_charging_time' (T_VARIABLE), expecting ';' or ',' in /home/epumpro/public_html/conti-charger-stations/checkin_status.php on line 9
+[22-Mar-2024 14:26:38 UTC] PHP Parse error:  syntax error, unexpected '$sql_charging_time' (T_VARIABLE), expecting ';' or ',' in /home/epumpro/public_html/conti-charger-stations/checkin_status.php on line 9
+[22-Mar-2024 14:36:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function timeAgo() in /home/epumpro/public_html/conti-charger-stations/checkin_status.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/epumpro/public_html/conti-charger-stations/checkin_status.php on line 17
