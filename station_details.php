@@ -74,7 +74,12 @@ if($_SERVER["REQUEST_METHOD"] == "POST") {
     $time = $_POST['time'];
 	$time_expiration  = date('Y-m-d H:i:s', time()+(3600*$time));
     // Insert check-in data into database
-    $sql_check_in = "INSERT INTO checked_in_users (user, check_in_type, check_in_time, station_id) VALUES ('$user', '$check_in_type', '$time_expiration', $station_id)";
+    $sql_check_in = "INSERT INTO checked_in_users (user, check_in_type, check_in_time, station_id) 
+SELECT '$user', '$check_in_type', '$time_expiration', $station_id
+WHERE NOT EXISTS (
+    SELECT 1 FROM checked_in_users WHERE user = '$user'
+);
+";
     $conn->query($sql_check_in);
 }
 $sql_checked_in_users = "SELECT registration_info.id  AS registration_id, registration_info.full_name, registration_info.car_model, checked_in_users_1.check_in_type, charging_stations.name, checked_in_users_1.check_in_time, checked_in_users_1.id
