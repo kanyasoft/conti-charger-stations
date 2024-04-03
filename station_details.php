@@ -103,7 +103,42 @@ $row_registration_info = $result_registration_info->fetch_assoc()
 
 <!DOCTYPE html>
 <html>
+<head>
 
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	   <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            width: 300px;
+            margin: 0 auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+        input[type="text"],
+        input[type="password"],
+        input[type="submit"] {
+            width: 100%;
+            padding: 10px;
+            margin: 5px 0;
+            box-sizing: border-box;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        input[type="submit"] {
+            background-color: #4caf50;
+            color: white;
+            cursor: pointer;
+        }
+        input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+    </style>
+
+</head>
 <body>
 <table style=" border-radius: 5px; table-layout:fixed; width:100%; background-color: #f5f3f0; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);">
 	<tbody>
@@ -126,7 +161,7 @@ $row_registration_info = $result_registration_info->fetch_assoc()
     <form action="" method="post">
 <span style="font-size: 1.2em; font-weight: bold; text-decoration: none;  color:#0013a6;"> Time: </span>&nbsp;&nbsp;&nbsp;&nbsp;
        
-<select name="time" required style="font-size: 1.2em; font-weight: bold; text-decoration: none;  color:#ffffff; border-radius: 5px; table-layout:fixed;  background-color: #04cc57; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);">
+<select name="time" required style="font-size: 1em; font-weight: bold; text-decoration: none;  color:#ffffff; border-radius: 5px; table-layout:fixed;  background-color: #04cc57; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);">
     <?php
     // Generate options from 0.5 to 8 by 0.5 increments
  //   echo "<option value='0.01'>test minute h</option>";
@@ -171,22 +206,23 @@ $row_registration_info = $result_registration_info->fetch_assoc()
                 <?php echo '<span style="font-size: 0.7em; text-decoration: none; "> ' . "for " . $hours . " hours and " . $minutes . " minutes"; ?>.
 
 
-                <?php echo "Check out at " . date('H:i', strtotime($row['check_in_time'])); ?></span><BR>
+                <?php echo "Check out at " . date('H:i', strtotime($row['check_in_time'])); ?></span>
  				<?php 
 					if ($_SESSION['user_id'] == $row['registration_id'])
-					{					
-						echo "<form action='' method='post'><input type='hidden' name='delete_id' value='" . $row['id'] . "'><input type='submit' name='delete' value='Check out' style='display: inline-block font-weight: bold; text-decoration: none; color:#eFF; background-color: #b50802;'>&nbsp;&nbsp;&nbsp;&nbsp;"; 
+					{	
+						echo "<TABLE><TR><TD>";
+						echo "<form action='' method='post'><input type='hidden' name='delete_id' value='" . $row['id'] . "'><input type='submit' name='delete' value='Check out' style='text-decoration: none; color:#eFF; background-color: #b50802; border-radius: 5px; padding: 5px;'></TD>&nbsp;&nbsp;&nbsp;&nbsp;"; 
 						if ($row['check_in_type'] == 'waiting')
-						echo "<input type='hidden' name='switch_charge_id' value='" . $row['id'] . "'><input type='submit' name='switch' value='Switch to charge' style='display: inline-block font-weight: bold; text-decoration: none; color:#eFF; background-color: #04cc57;'></form>"; 
+						echo "<TD><input type='hidden' name='switch_charge_id' value='" . $row['id'] . "'><input type='submit' name='switch' value='Switch to charge' style='text-decoration: none; color:#eFF; background-color: #04cc57; border-radius: 5px; padding: 5px;'></form></TD>"; 
 						if ($row['check_in_type'] == 'charging')
-						echo "<input type='hidden' name='switch_wait_id' value='" . $row['id'] . "'><input type='submit' name='switch' value='Switch to wait' style='display: inline-block font-weight: bold; text-decoration: none; color:#eFF; background-color: #049dcc;'></form>"; 
+						echo "<TD><input type='hidden' name='switch_wait_id' value='" . $row['id'] . "'><input type='submit' name='switch' value='Switch to wait' style='text-decoration: none; color:#eFF; background-color: #049dcc; border-radius: 5px; padding: 5px;'></form></TD>"; 
+						echo "</TR></TABLE>";
 					}			
 				?>          
         <?php endwhile; 
 		if ($counter == 0) echo "<BR><BR>nobody is here"; 
 		?>
     </DIV>
-
 
 
 </body>

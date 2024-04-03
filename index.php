@@ -1,5 +1,5 @@
 <?php
-//echo "Current time: " . date("h:i:s A");
+echo "Current time: " . date("h:i:s A");
 ?>
 
 <?php
